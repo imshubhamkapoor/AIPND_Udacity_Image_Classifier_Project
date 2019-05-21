@@ -66,4 +66,7 @@ Inside the train, test and valid folders there should be folders bearing a speci
 As this project uses deep CNNs, for training of network you need to use a GPU. However after training you can always use normal CPU for the prediction phase.
 
 ## License
-[MIT License]
+[MIT License](https://github.com/imshubhamkapoor/AIPND_Udacity_Image_Classifier_Project/blob/master/LICENSE)
+
+## Author
+Shubham Kapoor
